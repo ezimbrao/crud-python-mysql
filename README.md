@@ -116,7 +116,6 @@ http://localhost:5000
 * Interface com Bootstrap
 * Sistema de login/autenticação
 * API REST
-* Deploy em nuvem
 
 ---
 
