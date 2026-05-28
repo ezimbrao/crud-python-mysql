@@ -128,9 +128,3 @@ Este projeto demonstra:
 * Estruturação de projeto Flask
 * Operações CRUD completas
 * Organização de código em camadas
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por você 🚀
