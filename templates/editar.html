@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Usuário</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <main class="page-shell page-card">
+        <section class="page-header">
+            <h1>Editar Usuário</h1>
+            <a class="btn secondary" href="/">Voltar</a>
+        </section>
+
+        <form method="POST" class="form-card">
+            <div class="form-group">
+                <label for="nome">Nome</label>
+                <input id="nome" type="text" name="nome" value="{{ usuario.nome }}" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input id="email" type="email" name="email" value="{{ usuario.email }}" required>
+            </div>
+            <button class="btn primary" type="submit">Atualizar</button>
+        </form>
+    </main>
+</body>
+</html>
