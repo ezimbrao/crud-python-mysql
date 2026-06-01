@@ -1,10 +1,10 @@
-# 🚀 CRUD com Python (Flask) + MySQL
+# CRUD com Python (Flask) + MySQL
 
-Aplicação web com operações básicas de CRUD (Create, Read, Update, Delete), desenvolvida com **Python (Flask)** e banco de dados **MySQL**.
+Aplicação web com operações básicas de CRUD (Create, Read, Update, Delete), desenvolvida com Python (Flask) e banco de dados MySQL.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python 3
 * Flask
@@ -13,17 +13,17 @@ Aplicação web com operações básicas de CRUD (Create, Read, Update, Delete),
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-✔ Criar usuários
-✔ Listar usuários
-✔ Editar usuários
-✔ Deletar usuários
-✔ Integração com banco de dados MySQL
+* Criar usuários
+* Listar usuários
+* Editar usuários
+* Deletar usuários
+* Integração com banco de dados MySQL
 
 ---
 
-## 🧱 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 crud-python-mysql/
@@ -40,7 +40,7 @@ crud-python-mysql/
 
 ---
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 
 ### 1. Clonar o repositório
 
@@ -111,7 +111,7 @@ http://localhost:5000
 
 ---
 
-## 💡 Melhorias futuras
+## Melhorias futuras
 
 * Interface com Bootstrap
 * Sistema de login/autenticação
@@ -119,7 +119,7 @@ http://localhost:5000
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto demonstra:
 
